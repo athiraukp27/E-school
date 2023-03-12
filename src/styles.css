@@ -1,1 +1,177 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Fredericka+the+Great&display=swap');
+.headh{
+    margin-top: -425px;
+    font-size: 60px;
+    font-weight: 599;
+    margin-left: -132px;
+
+}
+.btn1{
+    background-color: rgb(255, 138, 0);
+    color: #ffffff;
+    border-radius: 50px;
+    width: 170px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 30px;
+    text-transform: capitalize;
+    margin-left:-133PX;
+    margin-top:41px;
+}
+.btn1:hover{
+    background-color: rgba(19, 17, 20, 0.822);
+    color: #ffffff;
+
+}
+.fhp{
+font-size: 28px;
+line-height: 26px;
+margin-left: -127px;
+margin-top: 20px;
+
+}
+.headh1{
+    margin-top: -290px;
+    font-size: 64px;
+    font-weight: 599;
+    margin-left: -139px;
+
+}
+.fhp1{
+    font-size: 28px;
+    line-height: 26px;
+    margin-left: -138px;
+    margin-top: 20px;
+    
+    }
+    /* .img1{
+        width: 100%;
+        height: 850px;
+    } */
+    .navcontent{
+        margin-left: -138px;
+
+    }
+    #section1{
+        background-image: url(./assets/4test1.jpg);
+        width: 100%;
+        margin-top: 75px;
+    }
+    .section1sub{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .section1sub2{
+        border: 20px solid grey;
+        margin-top:0px;
+        margin-left:0px;
+    }
+    .sub2h{
+        margin-top: 34px;
+        margin-left: 28px;
+    }
+    .fhr{
+        color: rgb(255, 138, 0);
+    
+    }
+    .sub1fp{
+        margin-top: 24px;
+        margin-left: 27px;
+    }
+    .btnabout{
+        background-color: rgb(255, 138, 0);
+        color: #ffffff;
+        border-radius: 50px;
+        width: 170px;
+        height: 60px;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 30px;
+        text-transform: capitalize;
+        margin-left:76PX;
+        margin-top:47px;
+    }
+    .btnabout:hover{
+        background-color: rgba(19, 17, 20, 0.822);
+         
+    }
+    .abouth{
+        margin-left:-3PX;
+        margin-top:-60px;
+        font-size:40px;
+        font-family: 'Fredericka the Great', cursive;   
+     }
+    #section2{
+        background-color: black;
+        margin-top: 88px;
+     
+    }
+    .card-img-top{
+        margin-top: -2px;
+        width: 100%;
+    }
+    .card{
+        margin-top: 47px;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+        transition: box-shadow 0.3s ease-in-out; 
+    
+    }
+    .card:hover{
+        box-shadow: 0 15px 10px rgba(0,0,0,0.3);
+    
+    }
+    .prj{
+        margin-top:10px;
+        height:280px;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+        transition: box-shadow 0.5s ease-in-out; 
+
+    }
+    .prj:hover{
+        box-shadow: 0 20px 20px rgba(0,0,0,0.3);
+
+    }
+    .foot{
+        text-align: center;
+        margin-top: 8px;
+    }
+    .adrs{
+        font-size:small;
+        font-weight: bold;
+    }
+    .finsta{
+        margin-top: 25px;
+        margin-left: 170px;
+    }
+
+    .fcontents{
+        width: 100%;
+        margin-top: -30px;
+        display: flex;
+        flex-direction: row;
+    justify-content: space-evenly; 
+    }
+    .f1{
+        width: 32%;
+        height: 300px;
+        /* border: solid 1px white; */
+        text-align: justify;
+        margin-top: 20px;
+    
+    }
+    .flogo{
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    .fdh{
+        margin-top: -50px;
+        margin-left: 122px;
+        font-family: 'Lobster', cursive;
+        
+    }
+    .fdhead{
+        margin-top: 50px;
+    }
